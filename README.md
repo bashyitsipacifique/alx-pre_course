@@ -1,1 +1,1 @@
-Create a new directory called 0x01-git in your alx-pre_course repo.
+drich will make it at the end bruh!
